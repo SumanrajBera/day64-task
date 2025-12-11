@@ -5,9 +5,9 @@ const dateElem = document.querySelector(".end .date")
 
 const startBtn = document.querySelector(".start")
 
-document.addEventListener("contextmenu", function (e) {
-    e.preventDefault()
-})
+// document.addEventListener("contextmenu", function (e) {
+//     e.preventDefault()
+// })
 
 screen.addEventListener("contextmenu", function (e) {
     e.preventDefault();
